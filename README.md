@@ -21,3 +21,5 @@ During the expansion of the universe, cosmic strings would form a network of loo
 
 Negative mass cosmic string
 The standard model of a cosmic string is a geometrical structure with an angle deficit, which thus is in tension and hence has positive mass. In 1995, Visser et al. proposed that cosmic strings could theoretically also exist with angle excesses, and thus negative tension and hence negative mass. The stability of such exotic matter strings is problematic; however, they suggested that if a negative mass string were to be wrapped around a wormhole in the early universe, such a wormhole could be stabilized sufficiently to exist in the present day.
+
+https://drive.google.com/folderview?id=1C8w_Az3oUoOvcA1fGA6B_XPAkmXiSA6M
