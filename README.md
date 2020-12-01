@@ -1,5 +1,5 @@
 # pytelepub
-source: <a href="en.wikipedia.org/wiki/Cosmic_string"?en.wikipedia.org/wiki/Cosmic_string</a><br>
+source: https://en.wikipedia.org/wiki/Cosmic_string
 Cosmic strings are hypothetical 1-dimensional topological defects which may have formed during a symmetry breaking phase transition in the early universe when the topology of the vacuum manifold associated to this symmetry breaking was not simply connected. It is expected that at least one string per Hubble volume is formed. Their existence was first contemplated by the theoretical physicist Tom Kibble in the 1970s.
 
 The formation of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids, or the cracks that form when water freezes into ice. The phase transitions leading to the production of cosmic strings are likely to have occurred during the earliest moments of the universe's evolution, just after cosmological inflation, and are a fairly generic prediction in both quantum field theory and string theory models of the early universe.
